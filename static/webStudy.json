@@ -1,0 +1,28 @@
+{
+  "name":"数据配置",
+  "webStudy": [
+    { "value": "html教程", "url": "https://www.runoob.com/html/html-tutorial.html", "desc": "html    教程-(HTML5 标准)超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析"},
+    { "value": "html DOM教程", "url": "https://www.runoob.com/htmldom/htmldom-tutorial.html", "desc": "HTML DOM 教程 DOM(Document Object Model)译为文档对象模型，是 HTML 和 XML 文档的编程接口。HTML DOM 定义了访问和操作 HTML 文档的标准方法。DOM 以树结构表达 HTML 文档"},
+    { "value": "html5教程", "url": "https://www.runoob.com/html/html5-intro.html", "desc": "HTML,HTML 4.01的上一个版本诞生于 1999 年。自从那以后，Web 世界已经经历了巨变。HTML5 仍处于完善之中。然而，大部分现代浏览器已经具备了某些 HTML5 支持。HTML5 是如何起步的？"},
+    { "value": "VUE2.0", "url": "https://www.runoob.com/vue2/vue-tutorial.html", "desc": "HTML 教程-(HTML5 标准)超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析"},
+    { "value": "VUE3.0", "url": "https://www.runoob.com/vue3/vue3-tutorial.html", "desc": "Vue3 教程 Vue.js（读音/vjuː/,类似于 view）是一套构建用户界面的渐进式框架。Vue 只关注视图层，采用自底向上增量开发的设计。Vue 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件"},
+    { "value": "vue3路由", "url": "https://www.runoob.com/vue3/vue3-routing.html", "desc": "Vue3 路由 本章节我们将为大家介绍 Vue 路由。Vue 路由允许我们通过不同的 URL 访问不同的内容。通过 Vue 可以实现多视图的单页 Web 应用（single page web application，SPA）"}
+  ],
+  "elTableData": [{
+    "date": "2016-05-02",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄上海市普陀区金沙江路 1518 弄上海市普陀区金沙江路 1518 弄上海市普陀区金沙江路 1518 弄"
+  }, {
+    "date": "2016-05-04",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1517 弄"
+  }, {
+    "date": "2016-05-01",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1519 弄"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1516 弄"
+  }]
+}

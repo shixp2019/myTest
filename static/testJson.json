@@ -1,0 +1,18 @@
+{
+  "name":"网站",
+  "num":3,
+  "sites": [
+    { "name":"Google", "info":[ "Android", "Google 搜索", "Google 翻译" ] },
+    { "name":"Runoob", "info":[ "菜鸟教程", "菜鸟工具", "菜鸟微信" ] },
+    { "name":"Taobao", "info":[ "淘宝", "网购" ] }
+  ],
+  "backColor": [
+    { "value": "1", "name": "白色"},
+    { "value": "2", "name": "黑色"},
+    { "value": "3", "name": "红色"}
+  ],
+  "backColor2": [
+    { "value": "4", "name": "蓝色"},
+    { "value": "5", "name": "黄色"}
+  ]
+}
