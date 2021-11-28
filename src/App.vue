@@ -3,7 +3,7 @@
     <img src="./assets/logo.png">
     <div class="totalClass">
       <ul>
-        <li><router-link to="/html/123/456" tag="li" active-class="link_active">HTMLaa</router-link></li>
+        <li><router-link to="/html/123/456" tag="li" active-class="link_active">HTML</router-link></li>
         <li><router-link to="/css" tag="li" active-class="link_active">CSS</router-link></li>
         <li><router-link to="/search/123" tag="li" active-class="link_active">搜索</router-link></li>
         <li><router-link to="/elementUI" tag="li" active-class="link_active">elementUI</router-link></li>

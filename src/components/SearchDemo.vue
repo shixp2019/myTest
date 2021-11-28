@@ -117,9 +117,6 @@ export default {
       })
       // console.log(this.webStudyData)
     },
-    Test: function () {
-
-    },
     clickFather () {
       console.log('father')
     },
