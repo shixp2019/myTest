@@ -11,7 +11,7 @@
     <div v-on:click.capture="clickFather">我是爸爸-capture<div @click.capture="clickSon">我是儿子-capture</div></div>
     <div><a href="http://www.baidu.com" @click.self.prevent="clickFather">我是父节点-self.prevent<span @click="clickSon">我是子节点</span></a></div>
     <div><a href="http://www.baidu.com" @click.prevent.self="clickFather">我是父节点-prevent.self<span @click="clickSon">我是子节点</span></a></div>
-    <div v-once>{{ onceValue }}<button @click="editOnce">点击修改不了</button></div>
+    <div v-once>{{ onceValue }}<button @click="editVonce">点击修改不了</button></div>
     <div><input v-model.lazy="testData">{{testData}}</div>
     <div v-color:red>防抖节流-lodash<button @click="submit">提交-lodash</button></div>
     <div><button v-debounce="submit2">提交-自定义指令</button></div>
@@ -123,7 +123,7 @@ export default {
     clickSon () {
       console.log('son')
     },
-    editOnce () {
+    editVonce () {
       this.onceValue = 'bbbbb'
     },
     submit: _.debounce(() => {
